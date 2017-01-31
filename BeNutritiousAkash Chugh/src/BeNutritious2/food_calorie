@@ -1,0 +1,452 @@
+age	calorie	gender	lifestyle
+2	1000	Male	Sedentary
+3	1200	Male	Sedentary
+4	1200	Male	Sedentary
+5	1200	Male	Sedentary
+6	1400	Male	Sedentary
+7	1400	Male	Sedentary
+8	1400	Male	Sedentary
+9	1600	Male	Sedentary
+10	1600	Male	Sedentary
+11	1800	Male	Sedentary
+12	1800	Male	Sedentary
+13	2000	Male	Sedentary
+14	2000	Male	Sedentary
+15	2200	Male	Sedentary
+16	2400	Male	Sedentary
+17	2400	Male	Sedentary
+18	2400	Male	Sedentary
+19	2600	Male	Sedentary
+20	2600	Male	Sedentary
+21	2400	Male	Sedentary
+22	2400	Male	Sedentary
+23	2400	Male	Sedentary
+24	2400	Male	Sedentary
+25	2400	Male	Sedentary
+26	2400	Male	Sedentary
+27	2400	Male	Sedentary
+28	2400	Male	Sedentary
+29	2400	Male	Sedentary
+30	2400	Male	Sedentary
+31	2400	Male	Sedentary
+32	2400	Male	Sedentary
+33	2400	Male	Sedentary
+34	2400	Male	Sedentary
+35	2400	Male	Sedentary
+36	2400	Male	Sedentary
+37	2400	Male	Sedentary
+38	2400	Male	Sedentary
+39	2400	Male	Sedentary
+40	2400	Male	Sedentary
+41	2200	Male	Sedentary
+42	2200	Male	Sedentary
+43	2200	Male	Sedentary
+44	2200	Male	Sedentary
+45	2200	Male	Sedentary
+46	2200	Male	Sedentary
+47	2200	Male	Sedentary
+48	2200	Male	Sedentary
+49	2200	Male	Sedentary
+50	2200	Male	Sedentary
+51	2200	Male	Sedentary
+52	2200	Male	Sedentary
+53	2200	Male	Sedentary
+54	2200	Male	Sedentary
+55	2200	Male	Sedentary
+56	2200	Male	Sedentary
+57	2200	Male	Sedentary
+58	2200	Male	Sedentary
+59	2200	Male	Sedentary
+60	2200	Male	Sedentary
+61	2000	Male	Sedentary
+62	2000	Male	Sedentary
+63	2000	Male	Sedentary
+64	2000	Male	Sedentary
+65	2000	Male	Sedentary
+66	2000	Male	Sedentary
+67	2000	Male	Sedentary
+68	2000	Male	Sedentary
+69	2000	Male	Sedentary
+70	2000	Male	Sedentary
+71	2000	Male	Sedentary
+72	2000	Male	Sedentary
+73	2000	Male	Sedentary
+74	2000	Male	Sedentary
+75	2000	Male	Sedentary
+76	2000	Male	Sedentary
+2	1000	Male	Moderately
+3	1400	Male	Moderately
+4	1400	Male	Moderately
+5	1400	Male	Moderately
+6	1600	Male	Moderately
+7	1600	Male	Moderately
+8	1600	Male	Moderately
+9	1800	Male	Moderately
+10	1800	Male	Moderately
+11	2000	Male	Moderately
+12	2200	Male	Moderately
+13	2200	Male	Moderately
+14	2400	Male	Moderately
+15	2600	Male	Moderately
+16	2800	Male	Moderately
+17	2800	Male	Moderately
+18	2800	Male	Moderately
+19	2800	Male	Moderately
+20	2800	Male	Moderately
+21	2800	Male	Moderately
+22	2800	Male	Moderately
+23	2800	Male	Moderately
+24	2800	Male	Moderately
+25	2800	Male	Moderately
+26	2600	Male	Moderately
+27	2600	Male	Moderately
+28	2600	Male	Moderately
+29	2600	Male	Moderately
+30	2600	Male	Moderately
+31	2600	Male	Moderately
+32	2600	Male	Moderately
+33	2600	Male	Moderately
+34	2600	Male	Moderately
+35	2600	Male	Moderately
+36	2600	Male	Moderately
+37	2600	Male	Moderately
+38	2600	Male	Moderately
+39	2600	Male	Moderately
+40	2600	Male	Moderately
+41	2600	Male	Moderately
+42	2600	Male	Moderately
+43	2600	Male	Moderately
+44	2600	Male	Moderately
+45	2600	Male	Moderately
+46	2400	Male	Moderately
+47	2400	Male	Moderately
+48	2400	Male	Moderately
+49	2400	Male	Moderately
+50	2400	Male	Moderately
+51	2400	Male	Moderately
+52	2400	Male	Moderately
+53	2400	Male	Moderately
+54	2400	Male	Moderately
+55	2400	Male	Moderately
+56	2400	Male	Moderately
+57	2400	Male	Moderately
+58	2400	Male	Moderately
+59	2400	Male	Moderately
+60	2400	Male	Moderately
+61	2400	Male	Moderately
+62	2400	Male	Moderately
+63	2400	Male	Moderately
+64	2400	Male	Moderately
+65	2400	Male	Moderately
+66	2200	Male	Moderately
+67	2200	Male	Moderately
+68	2200	Male	Moderately
+69	2200	Male	Moderately
+70	2200	Male	Moderately
+71	2200	Male	Moderately
+72	2200	Male	Moderately
+73	2200	Male	Moderately
+74	2200	Male	Moderately
+75	2200	Male	Moderately
+76	2200	Male	Moderately
+2	1000	Male	Active Sedentary
+3	1400	Male	Active Sedentary
+4	1600	Male	Active Sedentary
+5	1600	Male	Active Sedentary
+6	1800	Male	Active Sedentary
+7	1800	Male	Active Sedentary
+8	2000	Male	Active Sedentary
+9	2000	Male	Active Sedentary
+10	2200	Male	Active Sedentary
+11	2200	Male	Active Sedentary
+12	2400	Male	Active Sedentary
+13	2600	Male	Active Sedentary
+14	2800	Male	Active Sedentary
+15	3000	Male	Active Sedentary
+16	3200	Male	Active Sedentary
+17	3200	Male	Active Sedentary
+18	3200	Male	Active Sedentary
+19	3000	Male	Active Sedentary
+20	3000	Male	Active Sedentary
+21	3000	Male	Active Sedentary
+22	3000	Male	Active Sedentary
+23	3000	Male	Active Sedentary
+24	3000	Male	Active Sedentary
+25	3000	Male	Active Sedentary
+26	3000	Male	Active Sedentary
+27	3000	Male	Active Sedentary
+28	3000	Male	Active Sedentary
+29	3000	Male	Active Sedentary
+30	3000	Male	Active Sedentary
+31	2800	Male	Active Sedentary
+32	2800	Male	Active Sedentary
+33	2800	Male	Active Sedentary
+34	2800	Male	Active Sedentary
+35	2800	Male	Active Sedentary
+36	2800	Male	Active Sedentary
+37	2800	Male	Active Sedentary
+38	2800	Male	Active Sedentary
+39	2800	Male	Active Sedentary
+40	2800	Male	Active Sedentary
+41	2800	Male	Active Sedentary
+42	2800	Male	Active Sedentary
+43	2800	Male	Active Sedentary
+44	2800	Male	Active Sedentary
+45	2800	Male	Active Sedentary
+46	2800	Male	Active Sedentary
+47	2800	Male	Active Sedentary
+48	2800	Male	Active Sedentary
+49	2800	Male	Active Sedentary
+50	2800	Male	Active Sedentary
+51	2800	Male	Active Sedentary
+52	2800	Male	Active Sedentary
+53	2800	Male	Active Sedentary
+54	2800	Male	Active Sedentary
+55	2800	Male	Active Sedentary
+56	2600	Male	Active Sedentary
+57	2600	Male	Active Sedentary
+58	2600	Male	Active Sedentary
+59	2600	Male	Active Sedentary
+60	2600	Male	Active Sedentary
+61	2600	Male	Active Sedentary
+62	2600	Male	Active Sedentary
+63	2600	Male	Active Sedentary
+64	2600	Male	Active Sedentary
+65	2600	Male	Active Sedentary
+66	2600	Male	Active Sedentary
+67	2600	Male	Active Sedentary
+68	2600	Male	Active Sedentary
+69	2600	Male	Active Sedentary
+70	2600	Male	Active Sedentary
+71	2600	Male	Active Sedentary
+72	2600	Male	Active Sedentary
+73	2600	Male	Active Sedentary
+74	2600	Male	Active Sedentary
+75	2600	Male	Active Sedentary
+76	2400	Male	Active Sedentary
+2	1000	Female	Sedentary
+3	1000	Female	Sedentary
+4	1200	Female	Sedentary
+5	1200	Female	Sedentary
+6	1200	Female	Sedentary
+7	1200	Female	Sedentary
+8	1400	Female	Sedentary
+9	1400	Female	Sedentary
+10	1400	Female	Sedentary
+11	1600	Female	Sedentary
+12	1600	Female	Sedentary
+13	1600	Female	Sedentary
+14	1800	Female	Sedentary
+15	1800	Female	Sedentary
+16	1800	Female	Sedentary
+17	1800	Female	Sedentary
+18	1800	Female	Sedentary
+19	2000	Female	Sedentary
+20	2000	Female	Sedentary
+21	2000	Female	Sedentary
+22	2000	Female	Sedentary
+23	2000	Female	Sedentary
+24	2000	Female	Sedentary
+25	2000	Female	Sedentary
+26	1800	Female	Sedentary
+27	1800	Female	Sedentary
+28	1800	Female	Sedentary
+29	1800	Female	Sedentary
+30	1800	Female	Sedentary
+31	1800	Female	Sedentary
+32	1800	Female	Sedentary
+33	1800	Female	Sedentary
+34	1800	Female	Sedentary
+35	1800	Female	Sedentary
+36	1800	Female	Sedentary
+37	1800	Female	Sedentary
+38	1800	Female	Sedentary
+39	1800	Female	Sedentary
+40	1800	Female	Sedentary
+41	1800	Female	Sedentary
+42	1800	Female	Sedentary
+43	1800	Female	Sedentary
+44	1800	Female	Sedentary
+45	1800	Female	Sedentary
+46	1800	Female	Sedentary
+47	1800	Female	Sedentary
+48	1800	Female	Sedentary
+49	1800	Female	Sedentary
+50	1800	Female	Sedentary
+51	1600	Female	Sedentary
+52	1600	Female	Sedentary
+53	1600	Female	Sedentary
+54	1600	Female	Sedentary
+55	1600	Female	Sedentary
+56	1600	Female	Sedentary
+57	1600	Female	Sedentary
+58	1600	Female	Sedentary
+59	1600	Female	Sedentary
+60	1600	Female	Sedentary
+61	1600	Female	Sedentary
+62	1600	Female	Sedentary
+63	1600	Female	Sedentary
+64	1600	Female	Sedentary
+65	1600	Female	Sedentary
+66	1600	Female	Sedentary
+67	1600	Female	Sedentary
+68	1600	Female	Sedentary
+69	1600	Female	Sedentary
+70	1600	Female	Sedentary
+71	1600	Female	Sedentary
+72	1600	Female	Sedentary
+73	1600	Female	Sedentary
+74	1600	Female	Sedentary
+75	1600	Female	Sedentary
+76	1600	Female	Sedentary
+2	1000	Female	Moderately
+3	1200	Female	Moderately
+4	1400	Female	Moderately
+5	1400	Female	Moderately
+6	1400	Female	Moderately
+7	1600	Female	Moderately
+8	1600	Female	Moderately
+9	1600	Female	Moderately
+10	1800	Female	Moderately
+11	1800	Female	Moderately
+12	2000	Female	Moderately
+13	2000	Female	Moderately
+14	2000	Female	Moderately
+15	2000	Female	Moderately
+16	2000	Female	Moderately
+17	2000	Female	Moderately
+18	2000	Female	Moderately
+19	2200	Female	Moderately
+20	2200	Female	Moderately
+21	2200	Female	Moderately
+22	2200	Female	Moderately
+23	2200	Female	Moderately
+24	2200	Female	Moderately
+25	2200	Female	Moderately
+26	2000	Female	Moderately
+27	2000	Female	Moderately
+28	2000	Female	Moderately
+29	2000	Female	Moderately
+30	2000	Female	Moderately
+31	2000	Female	Moderately
+32	2000	Female	Moderately
+33	2000	Female	Moderately
+34	2000	Female	Moderately
+35	2000	Female	Moderately
+36	2000	Female	Moderately
+37	2000	Female	Moderately
+38	2000	Female	Moderately
+39	2000	Female	Moderately
+40	2000	Female	Moderately
+41	2000	Female	Moderately
+42	2000	Female	Moderately
+43	2000	Female	Moderately
+44	2000	Female	Moderately
+45	2000	Female	Moderately
+46	2000	Female	Moderately
+47	2000	Female	Moderately
+48	2000	Female	Moderately
+49	2000	Female	Moderately
+50	2000	Female	Moderately
+51	1800	Female	Moderately
+52	1800	Female	Moderately
+53	1800	Female	Moderately
+54	1800	Female	Moderately
+55	1800	Female	Moderately
+56	1800	Female	Moderately
+57	1800	Female	Moderately
+58	1800	Female	Moderately
+59	1800	Female	Moderately
+60	1800	Female	Moderately
+61	1800	Female	Moderately
+62	1800	Female	Moderately
+63	1800	Female	Moderately
+64	1800	Female	Moderately
+65	1800	Female	Moderately
+66	1800	Female	Moderately
+67	1800	Female	Moderately
+68	1800	Female	Moderately
+69	1800	Female	Moderately
+70	1800	Female	Moderately
+71	1800	Female	Moderately
+72	1800	Female	Moderately
+73	1800	Female	Moderately
+74	1800	Female	Moderately
+75	1800	Female	Moderately
+76	1800	Female	Moderately
+2	1000	Female	Active Sedentary
+3	1400	Female	Active Sedentary
+4	1400	Female	Active Sedentary
+5	1600	Female	Active Sedentary
+6	1600	Female	Active Sedentary
+7	1800	Female	Active Sedentary
+8	1800	Female	Active Sedentary
+9	1800	Female	Active Sedentary
+10	2000	Female	Active Sedentary
+11	2000	Female	Active Sedentary
+12	2200	Female	Active Sedentary
+13	2200	Female	Active Sedentary
+14	2400	Female	Active Sedentary
+15	2400	Female	Active Sedentary
+16	2400	Female	Active Sedentary
+17	2400	Female	Active Sedentary
+18	2400	Female	Active Sedentary
+19	2400	Female	Active Sedentary
+20	2400	Female	Active Sedentary
+21	2400	Female	Active Sedentary
+22	2400	Female	Active Sedentary
+23	2400	Female	Active Sedentary
+24	2400	Female	Active Sedentary
+25	2400	Female	Active Sedentary
+26	2400	Female	Active Sedentary
+27	2400	Female	Active Sedentary
+28	2400	Female	Active Sedentary
+29	2400	Female	Active Sedentary
+30	2400	Female	Active Sedentary
+31	2200	Female	Active Sedentary
+32	2200	Female	Active Sedentary
+33	2200	Female	Active Sedentary
+34	2200	Female	Active Sedentary
+35	2200	Female	Active Sedentary
+36	2200	Female	Active Sedentary
+37	2200	Female	Active Sedentary
+38	2200	Female	Active Sedentary
+39	2200	Female	Active Sedentary
+40	2200	Female	Active Sedentary
+41	2200	Female	Active Sedentary
+42	2200	Female	Active Sedentary
+43	2200	Female	Active Sedentary
+44	2200	Female	Active Sedentary
+45	2200	Female	Active Sedentary
+46	2200	Female	Active Sedentary
+47	2200	Female	Active Sedentary
+48	2200	Female	Active Sedentary
+49	2200	Female	Active Sedentary
+50	2200	Female	Active Sedentary
+51	2200	Female	Active Sedentary
+52	2200	Female	Active Sedentary
+53	2200	Female	Active Sedentary
+54	2200	Female	Active Sedentary
+55	2200	Female	Active Sedentary
+56	2200	Female	Active Sedentary
+57	2200	Female	Active Sedentary
+58	2200	Female	Active Sedentary
+59	2200	Female	Active Sedentary
+60	2200	Female	Active Sedentary
+61	2000	Female	Active Sedentary
+62	2000	Female	Active Sedentary
+63	2000	Female	Active Sedentary
+64	2000	Female	Active Sedentary
+65	2000	Female	Active Sedentary
+66	2000	Female	Active Sedentary
+67	2000	Female	Active Sedentary
+68	2000	Female	Active Sedentary
+69	2000	Female	Active Sedentary
+70	2000	Female	Active Sedentary
+71	2000	Female	Active Sedentary
+72	2000	Female	Active Sedentary
+73	2000	Female	Active Sedentary
+74	2000	Female	Active Sedentary
+75	2000	Female	Active Sedentary
+76	2000	Female	Active Sedentary
+

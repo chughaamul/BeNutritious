@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_food_selection"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.benutritious.food_selection">
+
+
+
+
+    <AutoCompleteTextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/food_category_auto_complete"/>
+
+    <AutoCompleteTextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/sub_food_auto_complete"
+        android:paddingTop="100dp"
+        android:visibility="invisible"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sub_food_auto_complete"
+        android:orientation="horizontal"
+        android:visibility="invisible"
+        android:id="@+id/food_minerals_qty_servings_layout">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:text="Quantity"/>
+
+    <EditText
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/food_minerals_quantity"
+        android:inputType="number"
+        android:text="1"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:id="@+id/food_minerals_servings"
+        />
+
+
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/health_bar_button"
+        android:text="Nutri today"
+        android:onClick="display_needed_minerals"
+
+        android:layout_centerInParent="true"
+        android:visibility="invisible"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/displaying_needed_minerals_layout">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/displaying_needed_minerals_text"
+            android:visibility="invisible"
+            />
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/food_suggestions"
+            android:visibility="invisible"
+            android:text="Food Suggestions"
+            android:onClick="calculate_max_nutrients_required"
+            android:layout_below="@id/displaying_needed_minerals_text"/>
+    </RelativeLayout>
+</RelativeLayout>

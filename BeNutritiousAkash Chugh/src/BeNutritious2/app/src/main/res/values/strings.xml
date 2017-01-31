@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BeNutritious</string>
+    <string name="name_str">Name</string>
+    <string name="age_str">Age</string>
+    <string name="male_str">Male</string>
+    <string name="female_str">Female</string>
+    <string name="physicalActivity">Physical Activity</string>
+    <string name="pregnant_str">Are you pregnant ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string-array name="lifestyle_items">
+        <item>Sedentary</item>
+        <item>Moderately Active</item>
+        <item>Active</item>
+    </string-array>
+    <string-array name="food_categories">
+        <item>Breads, Cereals and Other Grain Products</item>
+        <item>Baked Goods</item>
+        <item>Vegetables and Vegetable Products</item>
+        <item>Fruit and Fruit Juices</item>
+        <item>Dairy Foods and Other Related Products</item>
+        <item>Eggs and Egg Dishes</item>
+        <item>Fish and Shellfish</item>
+        <item>Meat and Poultry</item>
+        <item>Nuts and Seeds</item>
+        <item>Fast Foods</item>
+        <item>Snacks</item>
+        <item>Beverages</item>
+    </string-array>
+
+    <string name="title_activity_splash_screen">splash_screen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
